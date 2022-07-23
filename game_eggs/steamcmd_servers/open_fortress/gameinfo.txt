@@ -4,8 +4,8 @@
 	title 			""
 	title2			""	
 	gamelogo		"1"
-	developer		"https://github.com/AgitationSkeleton/open_fortress/blob/master/credits.txt"
-	developer_url	"https://github.com/KaidemonLP/Open-Fortress-Source"
+	developer		"https://openfortress.fun/credits"
+	developer_url	"https://openfortress.fun"
 	manual			""
 	
 	type			"multiplayer_only"
